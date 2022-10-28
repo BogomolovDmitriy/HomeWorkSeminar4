@@ -29,7 +29,7 @@ int SumDigits(int num)
     {
         result += digits[i];
     }
-    Console.WriteLine($"Сумма цифр числа {num} ровна: {result}.");
+    Console.WriteLine($"Сумма цифр числа {num} равна: {result}.");
     return result;
 }
 
