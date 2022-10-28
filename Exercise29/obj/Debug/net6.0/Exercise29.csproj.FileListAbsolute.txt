@@ -1,0 +1,15 @@
+D:\Programs\Обучение программированию\Домашняя работа\Seminar4\Exercise29\obj\Debug\net6.0\Exercise29.csproj.AssemblyReference.cache
+D:\Programs\Обучение программированию\Домашняя работа\Seminar4\Exercise29\obj\Debug\net6.0\Exercise29.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\Обучение программированию\Домашняя работа\Seminar4\Exercise29\obj\Debug\net6.0\Exercise29.AssemblyInfoInputs.cache
+D:\Programs\Обучение программированию\Домашняя работа\Seminar4\Exercise29\obj\Debug\net6.0\Exercise29.AssemblyInfo.cs
+D:\Programs\Обучение программированию\Домашняя работа\Seminar4\Exercise29\obj\Debug\net6.0\Exercise29.csproj.CoreCompileInputs.cache
+D:\Programs\Обучение программированию\Домашняя работа\Seminar4\Exercise29\bin\Debug\net6.0\Exercise29.exe
+D:\Programs\Обучение программированию\Домашняя работа\Seminar4\Exercise29\bin\Debug\net6.0\Exercise29.deps.json
+D:\Programs\Обучение программированию\Домашняя работа\Seminar4\Exercise29\bin\Debug\net6.0\Exercise29.runtimeconfig.json
+D:\Programs\Обучение программированию\Домашняя работа\Seminar4\Exercise29\bin\Debug\net6.0\Exercise29.dll
+D:\Programs\Обучение программированию\Домашняя работа\Seminar4\Exercise29\bin\Debug\net6.0\Exercise29.pdb
+D:\Programs\Обучение программированию\Домашняя работа\Seminar4\Exercise29\obj\Debug\net6.0\Exercise29.dll
+D:\Programs\Обучение программированию\Домашняя работа\Seminar4\Exercise29\obj\Debug\net6.0\refint\Exercise29.dll
+D:\Programs\Обучение программированию\Домашняя работа\Seminar4\Exercise29\obj\Debug\net6.0\Exercise29.pdb
+D:\Programs\Обучение программированию\Домашняя работа\Seminar4\Exercise29\obj\Debug\net6.0\Exercise29.genruntimeconfig.cache
+D:\Programs\Обучение программированию\Домашняя работа\Seminar4\Exercise29\obj\Debug\net6.0\ref\Exercise29.dll
