@@ -3,7 +3,11 @@
 
 double DegreeNumber(int num1,int num2)
 {
-    double result = Math.Pow(num1, num2);
+    int result = 1;
+    for (int i = 0; i < num2; i++)
+    {
+        result *= num1;
+    }
     Console.WriteLine($"Рузультат: {result}");
     return result;
 }
