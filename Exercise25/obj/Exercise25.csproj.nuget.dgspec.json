@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Programs\\Обучение программированию\\Домашняя работа\\Seminar4\\Exercise25\\Exercise25.csproj": {}
+    "D:\\Programs\\Обучение программированию\\Домашняя работа\\Tests\\Exercise25\\Exercise25.csproj": {}
   },
   "projects": {
-    "D:\\Programs\\Обучение программированию\\Домашняя работа\\Seminar4\\Exercise25\\Exercise25.csproj": {
+    "D:\\Programs\\Обучение программированию\\Домашняя работа\\Tests\\Exercise25\\Exercise25.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Programs\\Обучение программированию\\Домашняя работа\\Seminar4\\Exercise25\\Exercise25.csproj",
+        "projectUniqueName": "D:\\Programs\\Обучение программированию\\Домашняя работа\\Tests\\Exercise25\\Exercise25.csproj",
         "projectName": "Exercise25",
-        "projectPath": "D:\\Programs\\Обучение программированию\\Домашняя работа\\Seminar4\\Exercise25\\Exercise25.csproj",
+        "projectPath": "D:\\Programs\\Обучение программированию\\Домашняя работа\\Tests\\Exercise25\\Exercise25.csproj",
         "packagesPath": "C:\\Users\\Dmitriy\\.nuget\\packages\\",
-        "outputPath": "D:\\Programs\\Обучение программированию\\Домашняя работа\\Seminar4\\Exercise25\\obj\\",
+        "outputPath": "D:\\Programs\\Обучение программированию\\Домашняя работа\\Tests\\Exercise25\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dmitriy\\AppData\\Roaming\\NuGet\\NuGet.Config",
